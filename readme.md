@@ -2,7 +2,7 @@
 
 Repositorio con los enunciados y a posteriori, soluciones, del reto de 30 dias de abril en Prometeo
 
-## Reto 1 abril - Redondeo
+## Reto 1 abril - Redondeo de numeros
 
 ### Enunciado
 
