@@ -1,4 +1,4 @@
-# Reto 30 dias abril 2025 ¡Animo!
+# Reto 30 dias abril 2025 ¡
 
 Repositorio con los enunciados y a posteriori, soluciones, del reto de 30 dias de abril en Prometeo
 
