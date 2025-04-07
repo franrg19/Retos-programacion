@@ -13,8 +13,7 @@ public class Ejercicio_4 {
      }
 
      System.out.println("¡¡¡ BOOM !!!");
+     sc.close();
 
     }
-    
-
 }
